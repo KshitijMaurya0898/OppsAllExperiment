@@ -54,7 +54,8 @@ The PDF includes:
 26. DataFrame operations  
 
 ## ✨ Author
-Created by: *Your Name*  
+Created by: Kshitij Maurya
 BCA – Semester 3  
+
 
 
